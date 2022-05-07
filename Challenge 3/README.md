@@ -12,7 +12,7 @@ value = a
 
 ## First things first - Why Node?
 
->Node is just a javascript code that doesn't have stringly typed data structures, which makes it hard and every fucntion input needs to be validated befofe doing any compute on it. I found it challenging to ensure that all the edge cases are covered during the input validation
+>Node is just a javascript code that doesn't have strongly typed data structures, which makes it hard and every fucntion input needs to be validated before doing any compute on it. 
 
   
 
