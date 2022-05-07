@@ -269,11 +269,11 @@
             "properties": {
                 "loadBalancerBackendAddresses": [
                     {
-                        "name": "sudhaEX_app-tier-vm-1393ipconfig1",
+                        "name": "chethanEX_app-tier-vm-1393ipconfig1",
                         "properties": {}
                     },
                     {
-                        "name": "sudhaEX_app-tier-vm-2168ipconfig1",
+                        "name": "chethanEX_app-tier-vm-2168ipconfig1",
                         "properties": {}
                     }
                 ]
@@ -289,11 +289,11 @@
             "properties": {
                 "loadBalancerBackendAddresses": [
                     {
-                        "name": "sudhaEX_web-tier-vm-2296ipconfig1",
+                        "name": "chethanEX_web-tier-vm-2296ipconfig1",
                         "properties": {}
                     },
                     {
-                        "name": "sudhaEX_web-tier-vm-1904ipconfig1",
+                        "name": "chethanEX_web-tier-vm-1904ipconfig1",
                         "properties": {}
                     }
                 ]
@@ -890,11 +890,11 @@
                         "properties": {
                             "loadBalancerBackendAddresses": [
                                 {
-                                    "name": "sudhaEX_app-tier-vm-1393ipconfig1",
+                                    "name": "chethanEX_app-tier-vm-1393ipconfig1",
                                     "properties": {}
                                 },
                                 {
-                                    "name": "sudhaEX_app-tier-vm-2168ipconfig1",
+                                    "name": "chethanEX_app-tier-vm-2168ipconfig1",
                                     "properties": {}
                                 }
                             ]
@@ -972,11 +972,11 @@
                         "properties": {
                             "loadBalancerBackendAddresses": [
                                 {
-                                    "name": "sudhaEX_web-tier-vm-2296ipconfig1",
+                                    "name": "chethanEX_web-tier-vm-2296ipconfig1",
                                     "properties": {}
                                 },
                                 {
-                                    "name": "sudhaEX_web-tier-vm-1904ipconfig1",
+                                    "name": "chethanEX_web-tier-vm-1904ipconfig1",
                                     "properties": {}
                                 }
                             ]
