@@ -10,7 +10,7 @@ value = a
 
  
 
-## First things first - Why Node?
+## Why Node?
 
 >Node is just a javascript code that doesn't have strongly typed data structures, which makes it hard and every fucntion input needs to be validated before doing any compute on it. 
 
