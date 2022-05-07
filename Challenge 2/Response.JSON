@@ -1,13 +1,13 @@
 
 {
   "name": "samplevm1",
-  "id": "/subscriptions/[subscriptionId]/resourceGroups/sudhaEX/providers/Microsoft.Compute/virtualMachines/samplevm1",
+  "id": "/subscriptions/[subscriptionId]/resourceGroups/chethanEX/providers/Microsoft.Compute/virtualMachines/samplevm1",
   "type": "Microsoft.Compute/virtualMachines",
   "location": "centralus",
   "properties": {
     "vmId": "247fe3c7-a9c8-4d14-a864-1d4923014e23",
     "availabilitySet": {
-      "id": "/subscriptions/[subscriptionId]/resourceGroups/sudhaEX/providers/Microsoft.Compute/availabilitySets/SAMPLE-AS"
+      "id": "/subscriptions/[subscriptionId]/resourceGroups/chethanEX/providers/Microsoft.Compute/availabilitySets/SAMPLE-AS"
     },
     "hardwareProfile": {
       "vmSize": "Standard_DS1_v2"
@@ -27,7 +27,7 @@
         "caching": "ReadWrite",
         "managedDisk": {
           "storageAccountType": "StandardSSD_LRS",
-          "id": "/subscriptions/[subscriptionId]/resourceGroups/sudhaEx/providers/Microsoft.Compute/disks/samplevm1_OsDisk_1_1b018d9509b1469a902c827e166a5aa0"
+          "id": "/subscriptions/[subscriptionId]/resourceGroups/chethanEx/providers/Microsoft.Compute/disks/samplevm1_OsDisk_1_1b018d9509b1469a902c827e166a5aa0"
         },
         "diskSizeGB": 127
       },
@@ -52,7 +52,7 @@
     "networkProfile": {
       "networkInterfaces": [
         {
-          "id": "/subscriptions/[subscriptionId]/resourceGroups/sudhaEx/providers/Microsoft.Network/networkInterfaces/samplevm1830"
+          "id": "/subscriptions/[subscriptionId]/resourceGroups/chethanEx/providers/Microsoft.Network/networkInterfaces/samplevm1830"
         }
       ]
     },
