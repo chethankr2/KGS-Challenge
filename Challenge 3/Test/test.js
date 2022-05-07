@@ -4,13 +4,13 @@ var getIn = require('../index.js');
 console.log(getIn);
 
 var object = {
-    firstName: "John",
-    lastName: "Doe",
+    firstName: "Chethan",
+    lastName: "KR",
     address: {
         home: {
             addressLines: {
                 1: "Flat 304",
-                2: "Crockemwell road"
+                2: "Mysore road"
             }
         }
     },
